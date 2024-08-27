@@ -1946,14 +1946,13 @@ a, button {
 
 .promo-fita2 {
   font-size: 100%; 
-  width: 20%; 
+  width: 1%; 
   position: absolute;
-  top: 2%;
-  padding: 0.2% 0; 
-  left: -1%;
+  top: 7%;
+  padding: 5px 0; 
   color: white;
   text-align: center;
-  transform: rotate(-45deg);
+  transform: rotate(-45deg) translateX(-20%);
 }
 
 .itens-juntos-MV {
